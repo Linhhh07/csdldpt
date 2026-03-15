@@ -214,3 +214,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dự án : File , dataset, models, outputs
+dataset/raw/
+dataset/processed/
+dataset/query_samples/
+models/
+faiss_index/
+vectors/
+*.npy               # vector đặc trưng (numpy)
+*.pth               # model weights PyTorch
+*.h5                # nếu dùng Keras
+outputs/            # kết quả trung gian, figures, evaluation
+logs/               # log files

@@ -12,3 +12,12 @@ Xây dựng hệ CSDL lưu trữ và tìm kiếm ảnh đồ vật:
  
  5. Demo hệ thống và đánh giá kết quả đã đạt được.
 
+## Bộ dữ liệu (Dataset)
+  Tổng số category: 19  
+  Kích thước ảnh sau chuẩn hóa: 224 × 224 pixels  
+  Định dạng: JPG (quality 85%)
+  Link tải Dataset (Google Drive):
+[ Google Drive - Multimedia Dataset](https://drive.google.com/drive/folders/1K9ALrXmWkwbaiqS4PxRDDte0DmI3BjYI?usp=sharing)
+## Nội dung thư mục trên Drive:
+- `dataset_raw.zip` — Ảnh gốc (raw)
+- `dataset_processed.zip` — Ảnh đã chuẩn hóa (224×224, nền trắng)

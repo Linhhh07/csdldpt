@@ -1,4 +1,4 @@
-Xây dựng hệ CSDL lưu trữ và tìm kiếm ảnh đồ vật:
+## Xây dựng hệ CSDL lưu trữ và tìm kiếm ảnh đồ vật:
  
  1.Hãy xây dựng/sưu tầm một bộ dữ liệu ảnh gồm ít nhất 1000 files ảnh đồ vật khác nhau trong nhà, các ảnh có cùng kích thước, vật trong ảnh có cùng tỉ lệ khung hình (SV tùy chọn định dạng ảnh).
  
